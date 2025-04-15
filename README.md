@@ -1,6 +1,6 @@
 ## Student Database Application Using Hive
 
-[UI Reference](https://youtu.be/2VKpq4h3Sdw?si=w24qGcL0REZvCpIH) | [Hive Reference](https://youtu.be/xN_OTO5EYKY?si=qmnKE3A_-eDqBwXe) | [ChatGPT](https://chatgpt.com/)
+[App Demo](https://drive.google.com/file/d/19SYLp7gfSgVaoLtC8bk9K9wPrSHqNoo0/view?usp=drive_link) | [UI Reference](https://youtu.be/2VKpq4h3Sdw?si=w24qGcL0REZvCpIH) | [Hive Reference](https://youtu.be/xN_OTO5EYKY?si=qmnKE3A_-eDqBwXe)
 
 ### Programming Steps
 
